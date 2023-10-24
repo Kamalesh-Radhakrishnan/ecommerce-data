@@ -1,0 +1,11 @@
+payment_method_id,payment_method_name,payment_description
+1,Credit Card,Credit card payment
+2,Debit Card,Debit card payment
+3,PayPal,PayPal online payment
+4,Mobile Payment,Mobile payment (e.g. Google Pay)
+5,Wire Transfer,Wire transfer payment
+6,Cash On Delivery,Cash on delivery payment
+7,Check Payment,Check payment
+8,Cryptocurrency,Cryptocurrency payment (e.g. Bitcoin)
+9,Bank Transfer,Bank transfer payment
+10,Online Wallet,Online wallet payment (e.g. Amazon Pay)

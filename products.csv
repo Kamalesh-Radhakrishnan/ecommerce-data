@@ -1,0 +1,101 @@
+product_id,product_name,category_id,price,stock_quantity,product_description,supplier_id
+1,Red Widget,2,49.99,123,High-quality red widget,5
+2,Blue Widget,2,55.99,98,Blue-colored widget,8
+3,Green Widget,2,42.50,76,Eco-friendly green widget,7
+4,Yellow Widget,2,39.99,134,Yellow widget for all ages,5
+5,Widget X,1,64.75,45,Advanced widget model,12
+6,Widget Y,1,59.99,89,New and improved widget,9
+7,Widget Z,1,79.99,67,The ultimate widget,14
+8,Super Widget,3,99.99,112,Super high-quality widget,18
+9,Mega Widget,3,149.99,24,The biggest widget available,17
+10,Mini Widget,3,29.99,180,Compact and efficient widget,20
+11,Widget Plus,1,89.99,56,Enhanced widget with extra features,15
+12,Deluxe Widget,3,119.99,33,Luxury widget model,16
+13,Widget Pro,1,79.99,76,Professional-grade widget,10
+14,Standard Widget,2,36.50,210,Simple and reliable widget,8
+15,Widget Prime,1,119.99,42,Top-of-the-line widget,13
+16,Value Widget,2,29.99,156,Affordable widget choice,6
+17,Widget Lite,1,49.99,78,Lightweight widget option,11
+18,Premium Widget,3,129.99,50,High-end premium widget,19
+19,Widget Max,1,99.99,63,Maximum performance widget,12
+20,Ultimate Widget,3,159.99,28,The ultimate widget experience,17
+21,Advanced Widget,1,79.99,65,Feature-rich advanced widget,9
+22,Smart Widget,1,89.99,54,Intelligent smart widget,16
+23,Speedy Widget,2,44.99,102,Swift and efficient widget,7
+24,Economy Widget,2,19.99,242,Budget-friendly widget,6
+25,Robo Widget,3,199.99,18,Robotics-powered widget,15
+26,Design Widget,1,59.99,49,Stylish design-oriented widget,20
+27,High-Performance Widget,3,149.99,31,Performance-focused widget,13
+28,Compact Widget,1,39.99,96,Compact and convenient widget,8
+29,Value-Added Widget,2,34.99,124,Great value-added widget,14
+30,Ultimate Pro Widget,3,189.99,25,The professional's choice,17
+31,Widget Master,2,79.99,73,Masterfully crafted widget,6
+32,Innovative Widget,1,69.99,38,Innovation at its best,19
+33,Premium Plus Widget,3,159.99,47,The premium choice,12
+34,Heavy-Duty Widget,2,49.99,58,Durable heavy-duty widget,7
+35,Widget Supreme,1,99.99,60,The supreme widget experience,15
+36,Compact Pro Widget,3,119.99,34,Compact and professional,20
+37,Designer's Widget,2,74.99,44,Designer's touch widget,8
+38,Elite Widget,1,129.99,29,The elite widget solution,18
+39,Performance Plus Widget,3,139.99,52,Enhanced performance widget,11
+40,Pro Master Widget,2,89.99,63,Professional mastery widget,14
+41,Widget Classic,1,49.99,88,The classic choice,5
+42,Robust Widget,2,69.99,78,Robust and reliable widget,9
+43,Value Pro Widget,3,99.99,41,Great value and performance,10
+44,Premium Lite Widget,1,119.99,37,Premium features in a compact form,15
+45,Superior Widget,2,79.99,53,Superior quality widget,6
+46,Innovator's Widget,1,79.99,49,For the innovators,7
+47,All-in-One Widget,3,109.99,33,All-in-one solution,13
+48,Widget Genius,2,109.99,29,For the geniuses among us,14
+49,Advanced Lite Widget,1,64.99,57,Lightweight and advanced,10
+50,Performance Max Widget,3,179.99,24,Maximum performance and features,12
+51,Standard Plus Widget,2,49.99,64,Standard with added features,8
+52,Value Max Widget,1,54.99,77,Maximum value for your money,15
+53,Supreme Pro Widget,3,129.99,42,Supreme professional-grade widget,16
+54,Premium Master Widget,2,99.99,68,For the premium masters,10
+55,Pro Plus Widget,1,84.99,54,Professional with added features,17
+56,Economical Widget,2,34.99,112,Economical and reliable,9
+57,Compact Max Widget,1,59.99,46,Maximum performance in a compact form,14
+58,Smart Pro Widget,3,94.99,37,Professional-grade intelligence,11
+59,Value Lite Widget,2,29.99,102,Lightweight and great value,8
+60,High-End Widget,1,109.99,41,High-end widget solution,15
+61,Widget Plus X,2,69.99,69,Enhanced widget model,6
+62,Deluxe Lite Widget,1,84.99,45,Luxury in a lightweight package,7
+63,Premium Value Widget,3,94.99,58,Value with premium features,8
+64,Ultimate Pro Max Widget,2,199.99,28,The ultimate professional choice,11
+65,Designer's Choice Widget,1,119.99,53,The choice of designers,9
+66,Pro Max Widget,3,179.99,37,Maximum professional performance,12
+67,Standard Value Widget,2,49.99,66,Standard with great value,6
+68,Master Pro Widget,1,99.99,49,For the professional masters,10
+69,Premium Value Pro Widget,3,109.99,43,Value with premium professional features,14
+70,Supreme Master Widget,2,129.99,31,Supreme for the masters,8
+71,Smart Plus Widget,1,79.99,56,Smart with added features,15
+72,Value Master Widget,3,89.99,39,Great value for the masters,16
+73,Premium Max Widget,2,139.99,27,Maximum premium performance,17
+74,Compact Pro Max Widget,1,119.99,35,Compact professional excellence,12
+75,Advanced Pro Widget,3,99.99,45,For the professional advancement,18
+76,Innovative Plus Widget,2,84.99,51,Innovation with added features,11
+77,Designer's Pro Widget,1,94.99,46,For the professional designers,14
+78,Premium Plus Max Widget,3,179.99,29,The premium choice with maximum performance,19
+79,Robust Pro Widget,2,79.99,59,Robustness for the professionals,20
+80,All-in-One Pro Widget,1,119.99,41,All-in-one professional solution,13
+81,Supreme Pro Plus Widget,3,149.99,34,Supreme professional-grade with added features,17
+82,Performance Max Pro Widget,2,189.99,28,Maximum performance for the professionals,9
+83,Pro Master Plus Widget,1,129.99,37,For the professional masters with added features,12
+84,Classic Plus Widget,3,64.99,47,The classic choice with added features,10
+85,High-Performance Pro Widget,2,99.99,42,High-performance for the professionals,11
+86,Innovator's Pro Widget,1,89.99,49,For the innovative professionals,18
+87,Premium Value Lite Widget,3,79.99,59,Great value with premium features in a lightweight form,19
+88,Compact Max Pro Widget,2,109.99,35,Maximum performance in a compact professional form,8
+89,Designer's Pro Plus Widget,1,139.99,32,For the professional designers with added features,14
+90,Value Max Pro Widget,3,109.99,44,Maximum value for the professional masters,16
+91,Ultimate Pro Max Plus Widget,2,199.99,31,The ultimate professional choice with added features,17
+92,Smart Plus Pro Widget,1,129.99,37,Smart with added features for the professionals,10
+93,Value Lite Max Widget,3,79.99,41,Lightweight with maximum value,12
+94,High-End Plus Widget,2,89.99,48,High-end with added features,9
+95,Pro Plus Max Widget,1,139.99,29,Professional with maximum performance,18
+96,Economical Pro Widget,3,54.99,57,Economical and reliable for the professionals,20
+97,Compact Max Pro Plus Widget,2,129.99,26,Maximum performance in a compact professional form with added features,19
+98,Smart Plus Max Pro Widget,1,149.99,33,Smart with maximum added features for the professionals,14
+99,Value Pro Lite Widget,3,64.99,42,Great value with professional features in a lightweight form,13
+100,Ultimate Pro Max Plus Widget,2,199.99,31,The ultimate professional choice with maximum added features,20
