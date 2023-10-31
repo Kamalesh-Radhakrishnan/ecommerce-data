@@ -3,7 +3,7 @@ product_id,product_name,category_id,price,stock_quantity,product_description,sup
 2,Blue Widget,2,55.99,98,Blue-colored widget,8
 3,Green Widget,2,42.50,76,Eco-friendly green widget,7
 4,Yellow Widget,2,39.99,134,Yellow widget for all ages,5
-5,Widget X,1,64.75,45,Advanced widget model,12
+5,Widget X,101,64.75,45,Advanced widget model,12
 6,Widget Y,1,59.99,89,New and improved widget,9
 7,Widget Z,1,79.99,67,The ultimate widget,14
 8,Super Widget,3,99.99,112,Super high-quality widget,18
